@@ -1,0 +1,12 @@
+[submodule ".config/fish"]
+	path = .config/fish
+	url = https://github.com/maxdevjs/dotfiles-fish
+[submodule ".config/kitty"]
+	path = .config/kitty
+	url = https://github.com/maxdevjs/dotfiles-kitty
+[submodule ".config/nvim"]
+	path = .config/kitty
+	url = https://github.com/maxdevjs/dotfiles-nvim
+[submodule ".config/rofi"]
+	path = .config/rofi
+	url = https://github.com/maxdevjs/dotfiles-rofi
