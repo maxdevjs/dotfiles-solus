@@ -4,9 +4,9 @@
 [submodule ".config/kitty"]
 	path = .config/kitty
 	url = https://github.com/maxdevjs/dotfiles-kitty
-[submodule ".config/nvim"]
-	path = .config/kitty
-	url = https://github.com/maxdevjs/dotfiles-nvim
 [submodule ".config/rofi"]
 	path = .config/rofi
 	url = https://github.com/maxdevjs/dotfiles-rofi
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = https://github.com/maxdevjs/dotfiles-nvim
