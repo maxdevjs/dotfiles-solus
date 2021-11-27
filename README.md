@@ -23,7 +23,7 @@ when pushing.
 The solution will most likely be to move the `master` branch to `main`:
 
 ```yaml
-$ git branch -m master main
+$ branch -M main
 ```
 
 The previous command renames the branch called `main` to `main` thanks to the `-m` flag.
@@ -36,6 +36,16 @@ Now it should work 🥳:
 
 ```yaml
 $ push -u origin main
+```
+
+</details>
+
+<details>
+<summary>Add Yadm remote and push</summary>
+
+```yaml
+$ yadm remote add origin https://github.com/maxdevjs/dotfiles-solus.git
+$ yadm push -f -u origin main
 ```
 
 </details>
