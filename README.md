@@ -52,9 +52,9 @@ $ yadm push -f -u origin main
 
 ## TODO
 
-- [ ] setup [i3](https://i3wm.org/)
-  - [ ] setup [polybar](https://github.com/polybar/polybar)
-    - setup [maxdevjs/dotfiles-polybar](https://github.com/maxdevjs/dotfiles-polybar) 
-  - [ ] setup [rofi](https://github.com/davatorium/rofi)
-    - [maxdevjs/dotfiles-rofi](https://github.com/maxdevjs/dotfiles-rofi)
+- [x] setup [i3](https://i3wm.org/)
+  - [x] setup [polybar](https://github.com/polybar/polybar)
+    - setup [maxdevjs/dotfiles-polybar](https://github.com/maxdevjs/dotfiles-polybar-config) 
+  - [x] setup [rofi](https://github.com/davatorium/rofi)
+    - [maxdevjs/dotfiles-rofi](https://github.com/maxdevjs/dotfiles-rofi-config)
 
