@@ -6,10 +6,12 @@
 
 ## What is included
 
-- [maxdevjs/dotfiles-fish](https://github.com/maxdevjs/dotfiles-fish)
-- [maxdevjs/dotfiles-kitty](https://github.com/maxdevjs/dotfiles-kitty)
-- [maxdevjs/dotfiles-rofi](https://github.com/maxdevjs/dotfiles-rofi)
 - [maxdevjs/dotfiles-nvim](https://github.com/maxdevjs/dotfiles-nvim)
+
+- [maxdevjs/dotfiles-fish-config](https://github.com/maxdevjs/dotfiles-fish-config)
+- [maxdevjs/dotfiles-kitty-config](https://github.com/maxdevjs/dotfiles-kitty-config)
+- [maxdevjs/dotfiles-polybar-config](https://github.com/maxdevjs/dotfiles-polybar-config)
+- [maxdevjs/dotfiles-rofi-config](https://github.com/maxdevjs/dotfiles-rofi-config)
 
 ## Troubleshooting 🤪
 
