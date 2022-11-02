@@ -1,6 +1,6 @@
 # dotfiles-solus
 
-[Solus](https://getsol.us/home/) dotifiles managed by [yadm](https://github.com/TheLocehiliosan/yadm).
+~~[Solus](https://getsol.us/home/) dotifiles managed by [yadm](https://github.com/TheLocehiliosan/yadm).~~
 
 [Solus](https://getsol.us/home/) initial/setup [configuration](https://github.com/maxdevjs/dotfiles-solus-config)
 
@@ -54,6 +54,7 @@ $ yadm push -f -u origin main
 
 ## TODO
 
+- [ ] Decently update this README
 - [x] setup [i3](https://i3wm.org/)
    - setup [maxdevjs/dotfiles-i3-config](https://github.com/maxdevjs/dotfiles-i3-config)
   - [x] setup [polybar](https://github.com/polybar/polybar)
